@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dKarthik
+- 👋 Hi, I’m @Karthik
 - 🌱 I’m currently learning cpp and web dev
 
 <!---
